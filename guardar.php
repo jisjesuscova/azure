@@ -9,4 +9,3 @@ $query = "INSERT INTO test (id, numero, duenos) VALUES (".$id.", ".$numero.", '"
 
 mysqli_query($conn, $query) or die(mysql_error());
 
-header("Location: index.php");
