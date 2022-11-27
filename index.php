@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="insert.php">Insertar</a>
+    <a href="guardar.php">Insertar</a>
 </body>
 </html>
